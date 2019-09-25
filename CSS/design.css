@@ -2,3 +2,13 @@ body {
     background-color: olive
     ;
     }
+    .voetbal {
+        width: 510px;
+        length: 450px;
+        border: 10px solid white;
+        margin: 250px;
+
+    }
+    .hoi {
+        margin-top: 10px;
+    }
